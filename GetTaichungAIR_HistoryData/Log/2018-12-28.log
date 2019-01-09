@@ -1,0 +1,56 @@
+ERROR:root:,2018-12-28 14:55:33,Message: 'chromedriver.exe' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+
+INFO:root:,2018-12-28 14:59:51,
+開始抓取「二林」測站AQI預報...
+INFO:root:,2018-12-28 14:59:55,資料來源:http://aqicn.org/forecast/asia/#s:1620
+INFO:root:,2018-12-28 14:59:56,
+原始資料值
+INFO:root:,2018-12-28 14:59:56,Thursday 27
+INFO:root:,2018-12-28 14:59:56,19~19°C
+INFO:root:,2018-12-28 14:59:56,[{'2': ['131', '137']}, {'5': ['137', '137']}, {'8': ['126', '137']}, {'11': ['84', '112']}, {'14': ['67', '78']}, {'217': ['67', '67']}, {'20': ['67', '67']}, {'23': ['67', '67']}]
+ERROR:root:,2018-12-28 14:59:56,list index out of range
+INFO:root:,2018-12-28 15:34:57,
+開始抓取「二林」測站AQI預報...
+INFO:root:,2018-12-28 15:35:02,資料來源:http://aqicn.org/forecast/asia/#s:1620
+INFO:root:,2018-12-28 15:35:03,
+原始資料值
+INFO:root:,2018-12-28 15:35:03,Thursday 27
+INFO:root:,2018-12-28 15:35:03,19~19°C
+INFO:root:,2018-12-28 15:35:03,[{'2': ['131', '137']}, {'5': ['137', '137']}, {'8': ['126', '137']}, {'11': ['84', '112']}, {'14': ['67', '78']}, {'217': ['67', '67']}, {'20': ['67', '67']}, {'23': ['67', '67']}]
+ERROR:root:,2018-12-28 15:35:03,list index out of range
+ERROR:root:,2018-12-28 15:36:44,'CSV'
+ERROR:root:,2018-12-28 15:37:38,'CSV'
+ERROR:root:,2018-12-28 15:58:10,name 'webweb' is not defined
+ERROR:root:,2018-12-28 15:59:01,Message: 'chromeweb.exe' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+
+ERROR:root:,2018-12-28 16:00:58,Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.18305 x86_64)
+
+INFO:root:,2018-12-28 16:02:04,
+開始抓取「二林」測站AQI預報...
+INFO:root:,2018-12-28 16:02:07,資料來源:http://aqicn.org/forecast/asia/#s:1620
+INFO:root:,2018-12-28 16:02:08,
+原始資料值
+INFO:root:,2018-12-28 16:02:08,Thursday 27
+INFO:root:,2018-12-28 16:02:08,19~19°C
+INFO:root:,2018-12-28 16:02:08,[{'2': ['131', '137']}, {'5': ['137', '137']}, {'8': ['126', '137']}, {'11': ['84', '112']}, {'14': ['67', '78']}, {'217': ['67', '67']}, {'20': ['67', '67']}, {'23': ['67', '67']}]
+ERROR:root:,2018-12-28 16:02:08,list index out of range
+ERROR:root:,2018-12-28 16:04:04,Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.18305 x86_64)
+
+ERROR:root:,2018-12-28 16:12:57,Message: Could not locate element with visible text: 大里測站
+
+ERROR:root:,2018-12-28 16:12:57,Message: Could not locate element with visible text: 大里測站
+
+ERROR:root:,2018-12-28 16:38:59,Message: no such element: Unable to locate element: {"method":"tag name","selector":"table"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.18305 x86_64)
+
+ERROR:root:,2018-12-28 16:52:56,'str' object has no attribute 'get_attribute'
+ERROR:root:,2018-12-28 16:53:45,'str' object has no attribute 'find_element_by_tag_name'
+ERROR:root:,2018-12-28 16:59:40,'str' object has no attribute 'find_element_by_tag_name'
+ERROR:root:,2018-12-28 17:03:05,'tuple' object has no attribute 'find_elements_by_tag_name'
+ERROR:root:,2018-12-28 17:14:59,'tuple' object has no attribute 'text'
+ERROR:root:,2018-12-28 17:19:01,'tuple' object has no attribute 'text'
